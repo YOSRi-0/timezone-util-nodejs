@@ -1,0 +1,23 @@
+{
+  "name": "timezone-util-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOSRi-0/timezone-util-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YOSRi-0/timezone-util-nodejs/issues"
+  },
+  "homepage": "https://github.com/YOSRi-0/timezone-util-nodejs#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33"
+  }
+}
